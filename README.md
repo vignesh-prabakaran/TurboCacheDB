@@ -1,2 +1,2 @@
 # TurboCache
-A Redis based Key Value store database app.
+A Redis based Key Value in-memory database app.
